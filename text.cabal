@@ -126,6 +126,8 @@ library
     Data.Text.Lazy.Internal
     Data.Text.Lazy.Read
     Data.Text.Read
+    Data.Text.Short
+    Data.Text.Short.Internal
     Data.Text.Unsafe
 
   other-modules:
